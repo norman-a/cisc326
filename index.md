@@ -1,11 +1,13 @@
-## CISC 326 Group 3 Software Architects
+## Noah's Arkitects
+### CISC 326 Software Architecture - Group 3
+### Members
 
-### Roles
+Hamiz Jamil 20147727                                         
 
-Hamiz Jamil 20147727
-
-Michael Kalpouzos 20116078
+Michael Kalpouzos 20116078                                   
 
 Norman Anderson 20073995
 
 Ricardo Lopez 20192523
+
+Heijin Wang   
