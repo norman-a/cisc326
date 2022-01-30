@@ -1,5 +1,5 @@
 ## Noah's Arkitects
-### CISC 326 Software Architecture - Group 3
+### CISC 326/CMPE 322 Software Architecture - Group 3
 ### Members
 
 Hamiz Jamil 20147727                                         
