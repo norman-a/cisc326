@@ -2,12 +2,15 @@
 ### CISC 326/CMPE 322 Software Architecture - Group 3
 ### Members
 
-Hamiz Jamil 20147727                                         
+Hamiz Jamil                                         
 
-Michael Kalpouzos 20116078                                   
+Michael Kalpouzos                                    
 
-Norman Anderson 20073995
+Norman Anderson 
 
-Ricardo Lopez 20192523
+Ricardo Lopez 
 
-Heijin Wang   
+Assignment 1: Conceptual Architecture
+
++ [Report](https://drive.google.com/file/d/1mDTyOHwOOCCBo4ehHvWGq0BZkIkAB9YY/view?usp=sharing)
++ [Slides](https://drive.google.com/file/d/1n_0_P5GoxFWCjlig1kJfBjOg9_jTA2aB/view?usp=sharing)
