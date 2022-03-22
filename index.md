@@ -10,6 +10,10 @@ Norman Anderson
 
 Ricardo Lopez 
 
+Lesley Wang
+
+Caleb Gough
+
 Assignment 1: Conceptual Architecture
 
 + [Report](https://drive.google.com/file/d/1mDTyOHwOOCCBo4ehHvWGq0BZkIkAB9YY/view?usp=sharing)
