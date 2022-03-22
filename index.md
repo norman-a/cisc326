@@ -14,3 +14,8 @@ Assignment 1: Conceptual Architecture
 
 + [Report](https://drive.google.com/file/d/1mDTyOHwOOCCBo4ehHvWGq0BZkIkAB9YY/view?usp=sharing)
 + [Slides](https://drive.google.com/file/d/1n_0_P5GoxFWCjlig1kJfBjOg9_jTA2aB/view?usp=sharing)
+
+Assignment 2: Concrete Architecture
+
++ [Report](https://drive.google.com/file/d/1Ck5P2HbfkzSKPngTxEkwtwXcLztp5HFI/view?usp=sharing)
++ [Slides](https://drive.google.com/file/d/1FXk6pf_tucOYcMUJ9Bj7Ho5UCF9eyZrO/view?usp=sharing)
