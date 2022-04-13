@@ -23,3 +23,7 @@ Assignment 2: Concrete Architecture
 
 + [Report](https://drive.google.com/file/d/1Ck5P2HbfkzSKPngTxEkwtwXcLztp5HFI/view?usp=sharing)
 + [Slides](https://drive.google.com/file/d/1FXk6pf_tucOYcMUJ9Bj7Ho5UCF9eyZrO/view?usp=sharing)
+
+Assignment 3: Proposal for Enhancement
++ [Report](https://drive.google.com/file/d/1Hnx082hD_wStWH60qjcIkriW3nzPMyww/view?usp=sharing)
++ [Slides](https://drive.google.com/file/d/1utOg9yc8ILJl1Wn-1A-UD6dgQl0YIHDC/view?usp=sharing)
